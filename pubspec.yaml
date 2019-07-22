@@ -1,8 +1,8 @@
 name: superlist
 description: A simple list of pull-up loads and pull-down refreshes.
-version: 0.0.1
+version: 0.0.2
 author: ron <sharprons@gmail.com>
-homepage: https://github.com/heyun1413
+homepage: https://github.com/sharpron
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

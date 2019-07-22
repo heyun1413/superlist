@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'load_data.dart';
+import 'package:superlist/src/load_data.dart';
 
 /// @author ron 2019.07.07 登录业务组件
 class ListBloc {
